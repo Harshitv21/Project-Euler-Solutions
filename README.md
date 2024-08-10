@@ -7,6 +7,6 @@ If some problems are tricky I will try to provide an explanation for them or lin
 
 ## Progress ⌛
 
-| no  | Problem name | status | Project Euler link |
-| --- | ------------ | ------ | ------------------ |
-|     |              |        |                    |
+| no  | Problem name        | status | Project Euler link                         |
+| --- | ------------------- | ------ | ------------------------------------------ |
+| 1   | Multiples of 3 or 5 | ✅      | [link](https://projecteuler.net/problem=1) |
