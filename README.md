@@ -14,7 +14,7 @@ If some problems are tricky I will try to provide an explanation for them or lin
 | 3   | Largest Prime Factor                     |        | [link](https://projecteuler.net/problem=3)   |
 | 4   | Largest Palindrome Product               |        | [link](https://projecteuler.net/problem=4)   |
 | 5   | Smallest Multiple                        |        | [link](https://projecteuler.net/problem=5)   |
-| 6   | Sum Square Difference                    |        | [link](https://projecteuler.net/problem=6)   |
+| 6   | Sum Square Difference                    | ✅      | [link](https://projecteuler.net/problem=6)   |
 | 7   | 10001st Prime                            |        | [link](https://projecteuler.net/problem=7)   |
 | 8   | Largest Product in a Series              |        | [link](https://projecteuler.net/problem=8)   |
 | 9   | Special Pythagorean Triplet              |        | [link](https://projecteuler.net/problem=9)   |
