@@ -1,5 +1,5 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <iostream>
+#include <cmath>
 
 bool checkPrime(int n) {
     if(n == 1) return false;
@@ -25,7 +25,7 @@ int main()
     while(countPrime < max) {
         if(checkPrime(num)) {
             countPrime++;
-            if(countPrime == max) cout << num << "\n";
+            if(countPrime == max) std::cout << num << "\n";
         }
         num++;
     }
